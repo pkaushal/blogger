@@ -6,7 +6,8 @@ export default defineNuxtConfig({
     mySecret: process.env.MY_SECRET,
     public:{
       thirdwebClientId: '',
-      contractAddress: ''
+      contractAddress: '',
+      paymentContractAddress: '',
     }
   },
   components:[

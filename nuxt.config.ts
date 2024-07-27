@@ -8,6 +8,7 @@ export default defineNuxtConfig({
       thirdwebClientId: '',
       contractAddress: '',
       paymentContractAddress: '',
+      buyContractAddress: '',
     }
   },
   components:[

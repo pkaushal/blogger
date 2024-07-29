@@ -11,7 +11,7 @@ import { createThirdwebClient, getContract, prepareContractCall, sendTransaction
 import { sepolia } from "thirdweb/chains";
 // We use MetaMask wallet as an example, the pattern is the same for all wallets
 import { createWallet, injectedProvider } from "thirdweb/wallets";
-import { getTotalCoffee } from "/thirdweb/11155111/0x89d6eAde5F5a9ECd9cfcc9B0e61e6F70B9A7E065";
+import { getTotalCoffee } from "@/thirdweb/11155111/0x89d6eade5f5a9ecd9cfcc9b0e61e6f70b9a7e065";
 
 const total = ref(0);
 

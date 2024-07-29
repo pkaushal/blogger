@@ -7,7 +7,7 @@
 import { createThirdwebClient,getContract,readContract,sendTransaction,resolveMethod,prepareContractCall, toWei } from "thirdweb";
 import { sepolia } from "thirdweb/chains";
 import { createWallet,injectedProvider } from "thirdweb/wallets";
-import { getBalance } from "/thirdweb/11155111/0x0d7579b0FAC13972b75C6eCc81cD3DE5D7d574b0";
+import { getBalance } from "@/thirdweb/11155111/0x0d7579b0fac13972b75c6ecc81cd3de5d7d574b0";
 
 const runtimeConfig = useRuntimeConfig()
 

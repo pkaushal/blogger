@@ -1,0 +1,25 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Getting Started with Blockchain",
+            "author": "John Doe",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "date": "2022-01-01"
+        },
+        {
+            "id": 2,
+            "title": "Building Decentralized Applications",
+            "author": "Jane Smith",
+            "content": "Nulla facilisi. Sed euismod, urna id aliquet ultrices.",
+            "date": "2022-01-05"
+        },
+        {
+            "id": 3,
+            "title": "Smart Contracts Explained",
+            "author": "David Johnson",
+            "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "date": "2022-01-10"
+        }
+    ]
+}

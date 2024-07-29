@@ -11,7 +11,7 @@ import { createThirdwebClient,getContract,readContract,sendTransaction,resolveMe
 import { sepolia } from "thirdweb/chains";
 import { createWallet,injectedProvider } from "thirdweb/wallets";
 // import { getAllBlogs } from "~/thirdweb/11155111/0x367b2A4e271840FA2C5E8fac4C7ae7dC431Fa5a5";
-import { getAllBlogs } from "/thirdweb/11155111/0x367b2A4e271840FA2C5E8fac4C7ae7dC431Fa5a5";
+import { getAllBlogs } from "@/thirdweb/11155111/0x367b2a4e271840fa2c5e8fac4c7ae7dc431fa5a5";
 
 const runtimeConfig = useRuntimeConfig()
 
